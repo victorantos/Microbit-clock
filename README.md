@@ -1,6 +1,4 @@
-
-> Open this page at [https://victorantos.github.io/microbit-clock/](https://victorantos.github.io/microbit-clock/)
-
+ 
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
